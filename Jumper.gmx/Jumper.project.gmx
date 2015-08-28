@@ -18,11 +18,13 @@
     <sprite>sprites\spr_cat_disappear</sprite>
     <sprite>sprites\spr_cat_sleepStart</sprite>
     <sprite>sprites\spr_cat_sleep</sprite>
+    <sprite>sprites\spr_floor</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_cat</object>
+    <object>objects\obj_floor</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>
